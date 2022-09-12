@@ -5,3 +5,4 @@ const str={
     age:45,
     rollno:45,
 }
+console.log("friday!!")
